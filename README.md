@@ -1,4 +1,8 @@
-# 3Q2015 Roadmap
+# Roadmap
+
+## Applications
+
+[Trello](https://trello.com/b/r3maQXx6/emc-code-applications-team-roadmap)
 
 ## Infrastructure
 
@@ -7,10 +11,6 @@
 [Milestones](https://github.com/emccode/roadmap/milestones?direction=asc&sort=due_date&state=open)
 
 [Issues by Labels](https://github.com/emccode/roadmap/labels)
-
-## Applications
-
-[Trello](https://trello.com/b/r3maQXx6/emc-code-applications-team-roadmap)
 
 ## Marketing
 
