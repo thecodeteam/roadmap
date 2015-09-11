@@ -8,6 +8,10 @@
 
 [Issues by Labels](https://github.com/emccode/roadmap/labels)
 
-## Apps
+## Applications
 
 [Trello](https://trello.com/b/r3maQXx6/emc-code-applications-team-roadmap)
+
+## Marketing
+
+[EMC {code} Calender of Events](https://www.google.com/calendar/embed?src=52rlkjj3h1lsfqmi5hr0475ceg%40group.calendar.google.com&ctz=America/New_York)
