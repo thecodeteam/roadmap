@@ -12,6 +12,8 @@
 
 [Issues by Labels](https://github.com/emccode/roadmap/labels)
 
+[Issues by Recently Updated](https://github.com/emccode/roadmap/issues?&q=is%3Aissue+sort%3Aupdated-desc+)
+
 ## Marketing
 
 [EMC {code} Calender of Events](https://www.google.com/calendar/embed?src=52rlkjj3h1lsfqmi5hr0475ceg%40group.calendar.google.com&ctz=America/New_York)
