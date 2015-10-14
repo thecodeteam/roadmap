@@ -1,10 +1,6 @@
 # Roadmap
 
-## Applications
-
-[Trello](https://trello.com/b/r3maQXx6/emc-code-applications-team-roadmap)
-
-## Infrastructure
+## OSS Projects
 
 [Wiki](https://github.com/emccode/roadmap/wiki)
 
