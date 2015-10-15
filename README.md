@@ -1,4 +1,14 @@
 # Roadmap
+## Team Charter
+Enable EMCII to be relevant in the open source community through contribution, engagement, and technical solution leadership.
+
+We do this by:
+
+1. Contributing to meaningful OSS projects
+2. Creating new thought leading OSS applications
+3. Driving awareness of OSS opporuntities with product teams
+4. Participating in relevant community engagement projects
+5. Leading by example
 
 ## OSS Projects
 
