@@ -8,7 +8,7 @@ We do this by:
 2. Creating new thought leading OSS applications
 3. Driving awareness of OSS opportuntities with product teams
 4. Participating in relevant community engagement projects
-5. Leading by example
+5. Acting in the interest of building a community
 
 ## OSS Projects
 
