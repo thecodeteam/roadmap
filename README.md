@@ -12,7 +12,7 @@ We do this by:
 
 ## OSS Projects
 
-[Wiki](https://github.com/emccode/roadmap/wiki)
+[Roadmap](https://github.com/emccode/roadmap/wiki)
 
 [Milestones](https://github.com/emccode/roadmap/milestones?direction=asc&sort=due_date&state=open)
 
