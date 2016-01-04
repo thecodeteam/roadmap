@@ -10,6 +10,21 @@ We do this by:
 4. Participating in relevant community engagement projects
 5. Acting in the interest of building a community
 
+## github.com/emccode Repos
+Projects that are held under a EMC {code} repo are qualified based on certain specifications.  It is likely that these projects are either EMC {code} generated or have graduated through our `DevHigh5` process.  Here are the general guidelines.
+
+1. Governance is in place
+  - Two LGTM comments are required for a PR merge
+  - A {code} core team member is a maintainer
+2. Ensuring a seamless developer experience
+  - Clear documentation and continuous integration are required
+3. Aligned to focus areas
+  - Containers and Persistence  
+  - EMC as {code}
+  - OSS and DevOps
+4. Has strategic relevance
+
+
 ## OSS Projects
 
 [Roadmap](https://github.com/emccode/roadmap/wiki)
