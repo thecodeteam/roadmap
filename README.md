@@ -17,7 +17,9 @@ Projects that are held under a EMC {code} repo are qualified based on certain sp
   - Two LGTM comments are required for a PR merge
   - A {code} core team member is a maintainer
 2. Ensuring a seamless developer experience
-  - Clear documentation and continuous integration are required
+  - Clear documentation
+  - Continuous integration
+  - Simple demonstration capabilities
 3. Aligned to focus areas
   - Containers and Persistence  
   - EMC as {code}
