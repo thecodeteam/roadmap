@@ -17,6 +17,7 @@ Projects that are held under a EMC {code} repo are qualified based on certain sp
   - Two LGTM comments are required for a PR merge
   - A {code} core team member is a maintainer
 2. Ensuring a seamless developer experience
+  - Github Flow [model](https://guides.github.com/introduction/flow/)
   - Clear documentation
   - Continuous integration
   - Simple demonstration capabilities
