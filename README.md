@@ -40,19 +40,7 @@ Projects that are held under a EMC {code} repo are qualified based on certain sp
 
 ## Calendar
 
-[EMC {code} Calender of Events](https://www.google.com/calendar/embed?src=52rlkjj3h1lsfqmi5hr0475ceg%40group.calendar.google.com&ctz=America/New_York)
-
-## Newsletter
-
-[Wiki]()
-
-[Milestones]()
-
-## blog.emccode.com
-
-[Wiki]()
-
-[Milestones]()
+[EMC {code} Calender of Events](https://www.google.com/calendar/embed?src=52rlkjj3h1lsfqmi5hr0475ceg%40group.calendar.google.com&ctz=America/Pacific)
 
 
 
