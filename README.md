@@ -1,6 +1,6 @@
 # Roadmap
 ## Team Charter
-Enable EMCII to be relevant in the DevOps and open source communities through contribution, engagement, and technical solution leadership.
+Enable Dell EMC to be relevant in the DevOps and open source communities through contribution, engagement, and technical solution leadership.
 
 We do this by:
 
@@ -11,7 +11,7 @@ We do this by:
 5. Acting in the interest of building a community
 
 ## github.com/emccode Repos
-Projects that are held under a EMC {code} repo are qualified based on certain specifications.  It is likely that these projects are either EMC {code} generated or have graduated through our `DevHigh5` process.  Here are the general guidelines.
+Projects that are held under a {code} by Dell EMC repo are qualified based on certain specifications.  It is likely that these projects are either {code} generated or have graduated through our `DevHigh5` process.  Here are the general guidelines.
 
 1. Governance is in place
   - Two LGTM comments are required for a PR merge
@@ -23,7 +23,7 @@ Projects that are held under a EMC {code} repo are qualified based on certain sp
   - Simple demonstration capabilities
 3. Aligned to focus areas
   - Containers and Persistence  
-  - EMC as {code}
+  - Dell EMC as {code}
   - OSS and DevOps
 4. Has strategic relevance
 
