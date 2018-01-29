@@ -1,6 +1,6 @@
 # Roadmap
 ## Team Charter
-Enable Dell EMC to be relevant in the DevOps and open source communities through contribution, engagement, and technical solution leadership.
+Enable Dell Technologies to be relevant in the DevOps and open source communities through contribution, engagement, and technical solution leadership.
 
 We do this by:
 
